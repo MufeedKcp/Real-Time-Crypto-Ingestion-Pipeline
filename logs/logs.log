@@ -1,0 +1,20 @@
+2026-03-22 07:24:16,214 - DEBUG - Starting new HTTPS connection (1): pro-api.coinmarketcap.com:443 - urllib3.connectionpool
+2026-03-22 07:24:17,725 - DEBUG - https://pro-api.coinmarketcap.com:443 "GET /v1/cryptocurrency/listings/latest?start=1&limit=100&convert=USD HTTP/1.1" 200 None - urllib3.connectionpool
+2026-03-22 07:24:17,820 - INFO - 100 rows loaded succesfully - root
+2026-03-22 07:24:17,820 - INFO - Collecting API data....... - root
+2026-03-22 07:25:17,825 - DEBUG - Starting new HTTPS connection (1): pro-api.coinmarketcap.com:443 - urllib3.connectionpool
+2026-03-22 07:25:19,361 - DEBUG - https://pro-api.coinmarketcap.com:443 "GET /v1/cryptocurrency/listings/latest?start=1&limit=100&convert=USD HTTP/1.1" 200 None - urllib3.connectionpool
+2026-03-22 07:25:19,403 - INFO - 100 rows loaded succesfully - root
+2026-03-22 07:25:19,404 - INFO - Collecting API data....... - root
+2026-03-22 07:26:19,407 - DEBUG - Starting new HTTPS connection (1): pro-api.coinmarketcap.com:443 - urllib3.connectionpool
+2026-03-22 07:26:20,972 - DEBUG - https://pro-api.coinmarketcap.com:443 "GET /v1/cryptocurrency/listings/latest?start=1&limit=100&convert=USD HTTP/1.1" 200 None - urllib3.connectionpool
+2026-03-22 07:26:21,018 - INFO - 100 rows loaded succesfully - root
+2026-03-22 07:26:21,019 - INFO - Collecting API data....... - root
+2026-03-22 07:27:21,022 - DEBUG - Starting new HTTPS connection (1): pro-api.coinmarketcap.com:443 - urllib3.connectionpool
+2026-03-22 07:27:22,492 - DEBUG - https://pro-api.coinmarketcap.com:443 "GET /v1/cryptocurrency/listings/latest?start=1&limit=100&convert=USD HTTP/1.1" 200 None - urllib3.connectionpool
+2026-03-22 07:27:22,533 - INFO - 100 rows loaded succesfully - root
+2026-03-22 07:27:22,534 - INFO - Collecting API data....... - root
+2026-03-22 07:28:22,537 - DEBUG - Starting new HTTPS connection (1): pro-api.coinmarketcap.com:443 - urllib3.connectionpool
+2026-03-22 07:28:23,829 - DEBUG - https://pro-api.coinmarketcap.com:443 "GET /v1/cryptocurrency/listings/latest?start=1&limit=100&convert=USD HTTP/1.1" 200 None - urllib3.connectionpool
+2026-03-22 07:28:24,065 - INFO - 100 rows loaded succesfully - root
+2026-03-22 07:28:24,066 - INFO - Collecting API data....... - root
