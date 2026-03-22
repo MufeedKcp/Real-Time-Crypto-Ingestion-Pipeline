@@ -85,7 +85,15 @@ While this project is robust, there are a few things it currently doesÂ **not**Â
 - *If you run the script multiple times, it will keep appending data; it does not check if the coin data for that exact second already exists.
     
 - *It does not automatically handle CoinMarketCap's rate limit errors if you try to run it every second.
-    
+
+
+
+### Future Improvements:
+- Data Transformation The "Silver" Layer.
+- Dockerization.
+- Real-time Dashboard.
+- Automated Scheduling using Airflow or a simple Cron job for 24/7 data collection.
+- Integrating a notification system  (Email) to alert, if the API fails.
 
 ---
 
