@@ -19,7 +19,7 @@ If you are looking for a reliable way to build your own historical price databas
 
 ### Visualls
 
-<img src="docs/code_running.png" alt="My Image" style="width:500px;"> <img src="docs/PostgreSQL_table.png" alt="My Image" style="width:500px;">
+<img src="docs/code_running.png" alt="My Image" style="width:400px;"> <img src="docs/PostgreSQL_table.png" alt="My Image" style="width:400px;">
 
 
 ---
@@ -34,13 +34,12 @@ If you are looking for a reliable way to build your own historical price databas
 2. Setup a PostgreSQL database ready to receive the data.
     
 3. **Run the script:** Simply execute python file. The script will run 6 times with a 60-second gap, filling your database automatically.
-    
 
-#### How to set it up (For Developer)
+### For Developer
 
 1. **Clone the Repo:**
     ```
-    git clone https://github.com/yourusername/cryptostream-100.git
+    git clone (https://github.com/MufeedKcp/Real-Time-Crypto-Ingestion-Pipeline.git)
     cd cryptostream-100
     ```
     
@@ -50,7 +49,7 @@ If you are looking for a reliable way to build your own historical price databas
     ```
     
 3. **Configure Environment Variables:**  
-    Create a .env file in the root folder and add your credentials:
+    Create a .env file:
     ```
     API_KEY=your_coinmarketcap_key_here
     DATABASE_PATH=postgresql://username:password@localhost:5432/your_db_name
@@ -78,13 +77,13 @@ If you want to contribute:
 
 While this project is robust, there are a few things it currently does **not** do:
 
-- *The data is stored in its raw format. (Transformation features coming in the next update).
+- The data is stored in its raw format. (Transformation features coming in the next update).
     
-- *The script is currently set to run exactly 5 times and stop.
+- The script is currently set to run exactly 5 times and stop.
     
-- *If you run the script multiple times, it will keep appending data; it does not check if the coin data for that exact second already exists.
+- If you run the script multiple times, it will keep appending data; it does not check if the coin data for that exact second already exists.
     
-- *It does not automatically handle CoinMarketCap's rate limit errors if you try to run it every second.
+- It does not automatically handle CoinMarketCap's rate limit errors if you try to run it every second.
 
 
 
