@@ -17,9 +17,9 @@ If you are looking for a reliable way to build your own historical price databas
 
 ---
 
-### Project Architecture
+### Visualls
 
-
+<img src="docs/code_running.jpg" alt="My Image" style="width:300px;">
 
 
 ---
