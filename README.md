@@ -19,7 +19,7 @@ If you are looking for a reliable way to build your own historical price databas
 
 ### Visualls
 
-<img src="docs/code_running.png" alt="My Image" style="width:400px;"> <img src="docs/PostgreSQL_table.png" alt="My Image" style="width:400px;">
+> <img src="docs/code_running.png" alt="My Image" style="width:400px;"> <img src="docs/PostgreSQL_table.png" alt="My Image" style="width:400px;">
 
 
 ---
@@ -33,7 +33,7 @@ If you are looking for a reliable way to build your own historical price databas
     
 2. Setup a PostgreSQL database ready to receive the data.
     
-3. **Run the script:** Simply execute python file. The script will run 6 times with a 60-second gap, filling your database automatically.
+3. Run the script
 
 ### For Developer
 
@@ -64,11 +64,11 @@ If you are looking for a reliable way to build your own historical price databas
 
 If you want to contribute:
 
-- *Don't add over-complicated code.
+- Don't add over-complicated code.
     
-- *If you find a bug, open an "Issue" first.
+- If you find a bug, open an "Issue" first.
     
-- *I am planning to add data transformation soon. If you want to help with that, please reach out via a Pull Request.
+- I am planning to add data transformation soon. If you want to help with that, please reach out via a Pull Request.
     
 
 ---
