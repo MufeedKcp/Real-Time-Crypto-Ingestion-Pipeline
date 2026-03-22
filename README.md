@@ -19,11 +19,6 @@ If you are looking for a reliable way to build your own historical price databas
 
 ### Visualls
 
-<style>
-.image-space {
-    margin-right: 20px;
-}
-</style>
 <img src="docs/code_running.png" class="image-space" alt="My Image" style="width:400px;"> 
 <img src="docs/PostgreSQL_table.png" alt="My Image" style="width:400px;">
 
