@@ -89,7 +89,7 @@ While this project is robust, there are a few things it currently does **not**�
 
 ---
 
-### Support This Project ☕
+### Support This Project 
 
 If this project helped you save hours of work or helped you build your crypto dashboard, consider buying me a coffee. Every bit of support helps me keep this repo updated!
 
