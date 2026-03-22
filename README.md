@@ -55,7 +55,7 @@ If you are looking for a reliable way to build your own historical price databas
     DATABASE_PATH=postgresql://username:password@localhost:5432/your_db_name
     ```
     
-4. **Customize:** You can change the limit in the **api_collector()** function to track more than 100 coins or adjust the sleep timer to change the frequency.
+4. You can change the limit in the **api_collector()** function to track more than 100 coins or adjust the sleep timer to change the frequency.
     
 
 ---
