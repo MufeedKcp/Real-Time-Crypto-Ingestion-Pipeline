@@ -19,7 +19,7 @@ If you are looking for a reliable way to build your own historical price databas
 
 ### Visualls
 
-<img src="docs/code_running.png" alt="My Image" style="width:500px;">
+<img src="docs/code_running.png" alt="My Image" style="width:500px;"> <img src="docs/PostgreSQL_table" alt="My Image" style="width:500px;">
 
 
 ---
