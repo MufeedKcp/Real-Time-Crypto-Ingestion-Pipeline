@@ -34,21 +34,20 @@ If you are looking for a reliable way to build your own historical price databas
     
 3. Run the script
 
-### For Developer
+### For Developer follow these steps
 
-1. **Clone the Repo:**
+1. 
     ```
     git clone (https://github.com/MufeedKcp/Real-Time-Crypto-Ingestion-Pipeline.git)
     cd cryptostream-100
     ```
     
-2. **Install Dependencies:**
+2. 
     ```
     pip install -r requirements.txt
     ```
     
-3. **Configure Environment Variables:**  
-    Create a .env file:
+3. **Create a .env file in your code editor:**
     ```
     API_KEY=your_coinmarketcap_key_here
     DATABASE_PATH=postgresql://username:password@localhost:5432/your_db_name
@@ -59,9 +58,7 @@ If you are looking for a reliable way to build your own historical price databas
 
 ---
 
-### Contributor Expectations
-
-If you want to contribute:
+##### If you want to contribute:
 
 - Don't add over-complicated code.
     
