@@ -25,17 +25,6 @@ If you are looking for a reliable way to build your own historical price databas
 
 ### Instructions
 
-#### How to run it (For users)
-
-    
-1. . Sign up at [CoinMarketCap Developers](https://www.google.com/url?sa=E&q=https%3A%2F%2Fpro.coinmarketcap.com%2F) to get your key.
-    
-2. Setup a PostgreSQL database ready to receive the data.
-    
-3. Run the script
-
-### For Developer follow these steps
-
 1. 
     ```
     git clone (https://github.com/MufeedKcp/Real-Time-Crypto-Ingestion-Pipeline.git)
