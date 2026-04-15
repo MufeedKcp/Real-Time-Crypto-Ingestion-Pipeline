@@ -76,7 +76,7 @@ While this project is robust, there are a few things it currently doesÂ **not**Â
 - Data Transformation The "Silver" Layer.
 - Dockerization.
 - Real-time Dashboard.
-- Automated Scheduling using Airflow or a simple Cron job for 24/7 data collection.
+- Automated Scheduling using Airflow.
 - Integrating a notification system  (Email) to alert, if the API fails.
 
 ---
