@@ -2,8 +2,6 @@
 
 **A simple, automated pipeline that fetches live data for the top 100 cryptocurrencies and stores it safely in a PostgreSQL database.**
 
-### What is this project and why do you need it?
-
 If you are looking for a reliable way to build your own historical price database without manual work, you have found the right place. Most people struggle with messy API responses or losing data because they don't have a place to store it. This project solves that by creating a bridge between live market data and your own private database.
 
 - **Data Ingestion:** Automatically pulls the latest prices, market cap, and volume for the top 100 coins.
